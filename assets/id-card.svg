@@ -97,7 +97,11 @@
     <!-- photo -->
     <g clip-path="url(#photoclip)">
       <rect x="126" y="276" width="104" height="126" fill="#eceef1"/>
-      <use href="#me"/>
+      <use href="#me">
+        <animate attributeName="opacity"
+          values="1;1;0.12;0.12;1;1" keyTimes="0;0.35;0.5;0.7;0.85;1"
+          dur="4.5s" repeatCount="indefinite"/>
+      </use>
       <use href="#me" filter="url(#mosaic)">
         <animate attributeName="opacity"
           values="0;0;1;1;0;0" keyTimes="0;0.35;0.5;0.7;0.85;1"
