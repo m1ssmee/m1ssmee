@@ -38,43 +38,7 @@
     <filter id="shadow" x="-30%" y="-20%" width="160%" height="150%">
       <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000000" flood-opacity="0.45"/>
     </filter>
-    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#141a2b"/>
-      <stop offset="1" stop-color="#0a0d14"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="50%" cy="44%" r="55%">
-      <stop offset="0" stop-color="#7c3aed" stop-opacity="0.30"/>
-      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
-    </radialGradient>
   </defs>
-
-  <!-- backdrop -->
-  <rect x="6" y="6" width="488" height="628" rx="26" fill="url(#bg)" stroke="#232a3a"/>
-  <ellipse cx="250" cy="290" rx="235" ry="270" fill="url(#glow)"/>
-
-  <!-- gust of wind (drives the swing) -->
-  <g fill="none" stroke="#a9c9ff" stroke-linecap="round">
-    <path d="M-170 92 q 45 -12 95 -4 q 52 8 104 -3 q 46 -10 96 -3" stroke-width="2.5" opacity="0">
-      <animate attributeName="opacity" values="0;0.5;0" dur="4.6s" begin="0s" repeatCount="indefinite"/>
-      <animateTransform attributeName="transform" type="translate" from="0 0" to="720 0" dur="4.6s" begin="0s" repeatCount="indefinite"/>
-    </path>
-    <path d="M-170 138 q 45 -12 95 -4 q 52 8 104 -3 q 46 -10 96 -3" stroke-width="2" opacity="0">
-      <animate attributeName="opacity" values="0;0.32;0" dur="5.6s" begin="1.1s" repeatCount="indefinite"/>
-      <animateTransform attributeName="transform" type="translate" from="0 0" to="720 0" dur="5.6s" begin="1.1s" repeatCount="indefinite"/>
-    </path>
-    <path d="M-170 300 q 45 -12 95 -4 q 52 8 104 -3 q 46 -10 96 -3" stroke-width="3" opacity="0">
-      <animate attributeName="opacity" values="0;0.55;0" dur="3.9s" begin="0.5s" repeatCount="indefinite"/>
-      <animateTransform attributeName="transform" type="translate" from="0 0" to="720 0" dur="3.9s" begin="0.5s" repeatCount="indefinite"/>
-    </path>
-    <path d="M-170 468 q 45 -12 95 -4 q 52 8 104 -3 q 46 -10 96 -3" stroke-width="2" opacity="0">
-      <animate attributeName="opacity" values="0;0.28;0" dur="6.1s" begin="2.2s" repeatCount="indefinite"/>
-      <animateTransform attributeName="transform" type="translate" from="0 0" to="720 0" dur="6.1s" begin="2.2s" repeatCount="indefinite"/>
-    </path>
-    <path d="M-170 548 q 45 -12 95 -4 q 52 8 104 -3 q 46 -10 96 -3" stroke-width="2.6" opacity="0">
-      <animate attributeName="opacity" values="0;0.45;0" dur="5s" begin="1.7s" repeatCount="indefinite"/>
-      <animateTransform attributeName="transform" type="translate" from="0 0" to="720 0" dur="5s" begin="1.7s" repeatCount="indefinite"/>
-    </path>
-  </g>
 
   <!-- fixed ceiling hook (does NOT swing) -->
   <rect x="234" y="6" width="32" height="9" rx="3" fill="#484f58"/>
