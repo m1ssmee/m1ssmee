@@ -14,12 +14,12 @@
 
 ## 📋 Model Description
 
-AI/ML Engineer based in Gurugram, India, currently pursuing a B.Tech in Computer Science at **NorthCap University** (expected 2027). I design and deploy production-grade generative-AI systems — LLM applications, RAG pipelines, AI agents, and computer-vision models — end to end, from prototype to production.
+Computer Science undergraduate at **NorthCap University** (expected 2027), based in Gurugram, India. I build generative-AI projects — LLM applications, RAG pipelines, AI agents, and computer-vision models — and I've shipped real ones through internships.
 
 ```yaml
-role:      AI / ML Engineer
+role:      CS Undergrad · focused on AI / ML
 focus:     [ LLMs, RAG, AI Agents, Computer Vision, NLP ]
-languages: [ Python, SQL, Java ]
+languages: [ Python, SQL ]
 ```
 
 ## 📚 Training Data
@@ -52,7 +52,6 @@ output      ▸ mood-trend and recurring-symbol visualizations
 <p>
   <a href="#-architecture--stack">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=161b22" />
-  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=161b22" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=161b22" />
   <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white&labelColor=161b22" />
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=161b22" />
