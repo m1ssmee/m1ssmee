@@ -4,11 +4,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/task-genai%2Fllm%2Fcv-7c3aed?style=flat-square&labelColor=161b22" />
-  <img src="https://img.shields.io/badge/status-shipping%20to%20prod-22d3ee?style=flat-square&labelColor=161b22" />
-  <img src="https://img.shields.io/badge/license-hire--me-27c93f?style=flat-square&labelColor=161b22" />
-  <a href="https://linkedin.com/in/krishhpandit"><img src="https://img.shields.io/badge/linkedin-connect-0A66C2?style=flat-square&labelColor=161b22&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:krishhhpandit5@gmail.com"><img src="https://img.shields.io/badge/email-say%20hi-EA4335?style=flat-square&labelColor=161b22&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:krishhhpandit5@gmail.com"><img src="https://img.shields.io/badge/%E2%97%8F%20OPEN%20TO%20WORK-27c93f?style=for-the-badge&labelColor=0d1117" alt="Open to work" /></a>
+  <img src="https://img.shields.io/badge/FOCUS-GenAI%20%C2%B7%20LLM%20%C2%B7%20CV-7c3aed?style=for-the-badge&labelColor=0d1117" alt="Focus: GenAI, LLM, CV" />
+  <a href="https://linkedin.com/in/krishhpandit"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
+  <a href="mailto:krishhhpandit5@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
 </p>
 
 ---
