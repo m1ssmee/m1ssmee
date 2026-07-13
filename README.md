@@ -1,6 +1,6 @@
 <!-- hanging ID badge (hand-authored SVG — swings + animates on GitHub) -->
 <p align="center">
-  <img src="./assets/id-card.svg" width="330" alt="Krish Pandit — AI/ML Engineer · staff ID badge" />
+  <img src="./assets/id-card.svg" width="390" alt="Krish Pandit — CS student ID badge" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ---
 
-## 📋 Model Description
+## 👋 About Me
 
 Computer Science undergraduate at **NorthCap University** (expected 2027), based in Gurugram, India. I build generative-AI projects — LLM applications, RAG pipelines, AI agents, and computer-vision models — and I've shipped real ones through internships.
 
