@@ -1,6 +1,6 @@
 <!-- hanging ID badge (hand-authored SVG — swings + animates on GitHub) -->
 <p align="center">
-  <img src="./assets/id-card.svg?v=9" width="340" alt="Krish Pandit — CS student ID badge" />
+  <img src="./assets/id-card.svg?v=10" width="340" alt="Krish Pandit — CS student ID badge" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-Computer Science undergraduate at **NorthCap University** (expected 2027), based in Gurugram, India. I build generative-AI projects — LLM applications, RAG pipelines, AI agents, and computer-vision models — and I've shipped real ones through internships.
+Computer Science undergraduate at **NorthCap University** (expected 2027), based in India. I build generative-AI projects — LLM applications, RAG pipelines, AI agents, and computer-vision models — and I've shipped real ones through internships.
 
 ```yaml
 role:      CS Undergrad · focused on AI / ML
