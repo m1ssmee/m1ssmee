@@ -32,7 +32,7 @@
     <linearGradient id="botfade" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#fff"/><stop offset="0.82" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
     </linearGradient>
-    <mask id="photomask"><rect x="100" y="250" width="172" height="206" fill="url(#botfade)"/></mask>
+    <mask id="photomask"><rect x="102" y="252" width="158" height="193" fill="url(#botfade)"/></mask>
     <filter id="clouds" x="-5%" y="-5%" width="110%" height="110%" color-interpolation-filters="sRGB">
       <feTurbulence type="fractalNoise" baseFrequency="0.0065 0.009" numOctaves="5" seed="11" stitchTiles="stitch" result="n"/>
       <feColorMatrix in="n" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  2.4 0 0 0 -1.02" result="al"/>
@@ -94,7 +94,7 @@
 
       <!-- photo cutout (scaled down a touch, soft bottom fade) -->
       <g mask="url(#photomask)" filter="url(#photofx)">
-        <use href="#me" transform="translate(-99.6,-189.6) scale(1.6)"/>
+        <use href="#me" transform="translate(-85,-160) scale(1.5)"/>
       </g>
 
       <!-- text -->
@@ -103,10 +103,9 @@
       <text x="266" y="316" fill="#26333f" font-size="6" font-weight="700">EN: 14B21618</text>
       <text x="266" y="325" fill="#26333f" font-size="6" font-weight="700">DOC: AS0002261</text>
       <text x="266" y="352" fill="#55606e" font-size="7">Affiliation</text>
-      <text x="266" y="366" fill="#111b28" font-size="11.5" font-weight="800">Generative AI</text>
-      <text x="266" y="380" fill="#111b28" font-size="11.5" font-weight="800">Alchemist</text>
-      <text x="266" y="452" fill="#55606e" font-size="7">Expires</text>
-      <text x="266" y="467" fill="#111b28" font-size="14" font-weight="800">2093JAN01</text>
+      <text x="266" y="368" fill="#111b28" font-size="12" font-weight="800">AI geek</text>
+      <text x="266" y="450" fill="#55606e" font-size="8.5">Expires</text>
+      <text x="266" y="469" fill="#111b28" font-size="17" font-weight="800">2093JAN01</text>
 
       <rect x="106" y="474" width="288" height="42" fill="#d3e7fb" opacity="0.38"/>
       <rect x="106" y="474" width="288" height="42" fill="url(#holo)" opacity="0.1"/>
