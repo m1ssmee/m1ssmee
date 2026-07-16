@@ -1,6 +1,6 @@
 <!-- hanging ID badge (hand-authored SVG — swings + animates on GitHub) -->
 <p align="center">
-  <img src="./assets/id-card.svg?v=13" width="340" alt="Krish Pandit — CS student ID badge" />
+  <img src="./assets/id-card.svg?v=14" width="340" alt="Krish Pandit — CS student ID badge" />
 </p>
 
 <p align="center">
